@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating a Discord 👾 clone using Django 🐍
 - 🌱 I’m currently learning Tensorflow and the PERN stack
 - 📫 How to reach me: sdrshnnmbr@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Computer Engineering student at Purdue University
