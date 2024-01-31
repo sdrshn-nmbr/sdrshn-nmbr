@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I have recently built a Twitter 🐥 clone using Django 🐍 - http://github.com/sdrshn-nmbr/Djitter-The-Twitter-Clone
-- 🌱 I’m currently diving deeper into ML and specifically Reinforcement Learning by attempting to reimplement Partially Observable Markov Decision processes using PyTorch!
+- 🌱 I’m currently diving deeper into ML and specifically Reinforcement Learning by learning how to implement Partially Observable Markov Decision processes using PyTorch!
 - 📫 How to reach me: sdrshnnmbr@gmail.com (or checkout my portfolio @ https://sdrshn-nmbr.github.io/sdrshn-nmbr-portfolio/ !)
 - ⚡ Fun fact: I am a Computer Engineering student at Purdue University
